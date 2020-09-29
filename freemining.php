@@ -49,7 +49,7 @@ $date = date("h:i:sa");
 sleep(5);
 
 /*Requirements*/
-$ua = array("user-agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0");
+$ua = array("user-agent: Mozilla/5.0 (Linux; Android 5.1.1; Andromax B16C2G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.127 Mobile Safari/537.36");
 $login = "https://freemining.co/api.php";
 $data = "action=_login&address=1B2br9TmDE55rSDKypifZjDih7gcBM2PV3&password=124578&referrer=4";
 $home = "https://freemining.co/dashboard.php";
